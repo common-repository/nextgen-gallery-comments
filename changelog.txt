@@ -1,0 +1,8 @@
+NextGEN Gallery Comments
+by Roberto Cantarano
+
+= V0.1.1 - 27.08.2011 =
+* Fixed some bugs which did not allow the display of comments 
+
+= V0.1 - 24.08.2011 =
+* Initial release
